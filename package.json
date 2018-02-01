@@ -1,0 +1,31 @@
+{
+  "name": "nptel",
+  "version": "1.0.0",
+  "description": "nptel app",
+  "main": "course.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sree",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreedharssuresh/nptel.git"
+  },
+  "keywords": [
+    "new"
+  ],
+  "bugs": {
+    "url": "https://github.com/sreedharssuresh/nptel/issues"
+  },
+  "homepage": "https://github.com/sreedharssuresh/nptel#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "node-wit": "^4.3.0",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-rc.4",
+    "view-engine": "^1.1.1"
+  }
+}
